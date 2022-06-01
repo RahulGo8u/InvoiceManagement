@@ -3,3 +3,5 @@
 ################################################################################
 
 /src/.vs
+/src/InvoiceManagement/obj
+/src/InvoiceManagement/bin/Debug/netcoreapp3.1
